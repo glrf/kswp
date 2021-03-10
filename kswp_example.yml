@@ -1,0 +1,7 @@
+configs:
+  - name: production
+    path: /home/bob/.kube/gke.yaml
+  - name: staging
+    path: /home/bob/.kube/stage.yml
+  - name: local
+    path: /home/bob/.kube/microk8s.config
